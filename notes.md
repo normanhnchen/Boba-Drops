@@ -28,4 +28,4 @@ To link another website, use the `<a>` tag. It also must use the `href` attribut
 
 ## Images
 
-To link an image, use the `<img>` tag. IMPORTANT NOTE: it does not have a closing tag!
+To link an image, use the `<img>` tag. It must also have the `src` attribute. IMPORTANT NOTE: it does not have a closing tag!
